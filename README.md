@@ -49,7 +49,10 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
     </td>
-    <td><img src="https://img.shields.io/badge/E--commerce_Admin_CRUD-555555?style=flat-square"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/E--commerce-555555?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Admin_CRUD-555555?style=flat-square"/>
+    </td>
     <td>Full Stack Web</td>
   </tr>
 
