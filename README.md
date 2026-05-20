@@ -8,8 +8,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Documentation-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web-FF6B6B?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <div align="center">
